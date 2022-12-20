@@ -21,7 +21,7 @@ function fetchIssues() {
 
         // Creating html issuesList
         issuesList.innerHTML += 
-        `<div class="jubotron-custom cus-border mt-3 px-md-4 py-md-4 px-3 py-3">
+        `<div class="jub-custom cus-border mt-3 px-md-4 py-md-4 px-3 py-3">
            <div class="d-flex justify-content-between align-items-center">
                 <div>
                     <h6 class="text-muted cus-text-sm"> Issue ID: ${id} </h6>

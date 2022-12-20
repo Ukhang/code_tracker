@@ -10,13 +10,13 @@ html, body {
     font-family: 'VT323', monospace;
 }
 
-.jubotron-custom {
+.jub-custom {
     width: 100%;
     background: #2F2C2C;
     border-radius: 0.7rem;
 }
 
-.jubotron-custom img {
+.jub-custom img {
     max-width: 100%;
     border-radius: 0.7rem 0.7rem 0 0;
 }
