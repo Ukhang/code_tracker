@@ -31,6 +31,19 @@ html, body {
     border-color: #756C6C;
 }
 
+.form-cus::placeholder {
+    color: #7E7676;
+    opacity: 1; /* Firefox */
+}
+
+.form-cus:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #7E7676;
+}
+
+.form-cus::-ms-input-placeholder { /* Microsoft Edge */
+    color: #7E7676;
+}
+
 .cus-border {
     border: 1px solid #756C6C;
 }
