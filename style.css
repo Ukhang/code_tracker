@@ -1,0 +1,48 @@
+/* =========== Google Fonts ================== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=VT323&display=swap');
+
+html, body {
+    background-color: #121212;
+    font-family: 'Inter', sans-serif;
+}
+
+.head-text {
+    font-family: 'VT323', monospace;
+}
+
+.jubotron-custom {
+    width: 100%;
+    background: #2F2C2C;
+    border-radius: 0.7rem;
+}
+
+.jubotron-custom img {
+    max-width: 100%;
+    border-radius: 0.7rem 0.7rem 0 0;
+}
+
+.form-cus {
+    background-color: #121212;
+    border-color: #756C6C;
+}
+
+.form-cus:focus {
+    background-color: #121212;
+    border-color: #756C6C;
+}
+
+.cus-border {
+    border: 1px solid #756C6C;
+}
+
+.cus-text-sm {
+    font-size: 0.8rem;
+}
+
+.cus-des-text {
+    font-size: 15px;
+}
+
+.open-issue {
+    width: 0.9rem;
+}
