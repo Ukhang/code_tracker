@@ -1,5 +1,5 @@
 
-# Local Storage Issue Code - Tracker 🎫
+# Code - Tracker 🎫
 
 Code - tracker this allows users to add code issues or code reports. It is built with Vanilla Js, Bootstrap and Custom CSS.
 
